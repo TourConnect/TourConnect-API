@@ -8,10 +8,10 @@ TourConnect Integrations API
 Depending on the contract type the contract resource will only have either the accomodation or non accomodation contract part populated.
 
 See the JSON definition of an accomodation type of contract resource here:
-https://github.com/TourConnect/integrations/blob/master/JSON/accomodationContract.json
+https://github.com/TourConnect/TourConnect-API/blob/master/JSON/accomodationContract.json
 
 See the XML definition of a non accomodation contract resource here:
-https://github.com/TourConnect/integrations/blob/master/XML/nonAccomodationContract.xml
+https://github.com/TourConnect/TourConnect-API/blob/master/XML/nonAccomodationContract.xml
 
 ### Retrieving a collection of contracts
 
@@ -37,13 +37,13 @@ All query parameters are optional.
 The request returns a collection of accomodation contracts. (See definition of collection and accomodation contract.) For example:
 
 Collection in JSON format without an envelope:
-https://github.com/TourConnect/integrations/blob/master/JSON/contractCollection.json
+https://github.com/TourConnect/TourConnect-API/blob/master/JSON/contractCollection.json
 
 Collection in XML format with an envelope:
-https://github.com/TourConnect/integrations/blob/master/XML/contractCollectionEnvelope.xml
+https://github.com/TourConnect/TourConnect-API/blob/master/XML/contractCollectionEnvelope.xml
 
 The corresponding generated XSD:
-https://github.com/TourConnect/integrations/blob/master/XSD/contractCollectionEnvelope.xsd
+https://github.com/TourConnect/TourConnect-API/blob/master/XSD/contractCollectionEnvelope.xsd
 
 ## Back to ReadMe
-https://github.com/TourConnect/integrations/blob/master/README.md
+https://github.com/TourConnect/TourConnect-API/blob/master/README.md

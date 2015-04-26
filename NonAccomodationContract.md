@@ -6,10 +6,10 @@ TourConnect Integrations API
 ### Non-Accomodation contract resource
 
 See the JSON definition of the non-accomodation contract resource here:
-https://github.com/TourConnect/integrations/blob/master/JSON/nonAccomodationContract.json
+https://github.com/TourConnect/TourConnect-API/blob/master/JSON/nonAccomodationContract.json
 
 See the XML definition of the non-accomodation contract resource here:
-https://github.com/TourConnect/integrations/blob/master/XML/nonAccomodationContract.xml
+https://github.com/TourConnect/TourConnect-API/blob/master/XML/nonAccomodationContract.xml
 
 ### Retrieving a collection of non-accomodation contracts
 
@@ -35,13 +35,13 @@ All query parameters are optional.
 The request returns a collection of non-accomodation contracts. (See definition of collection and non-accomodation contract.) For example:
 
 Collection in JSON format without an envelope:
-https://github.com/TourConnect/integrations/blob/master/JSON/nonAccomodationContractCollection.json
+https://github.com/TourConnect/TourConnect-API/blob/master/JSON/nonAccomodationContractCollection.json
 
 Collection in XML format with an envelope:
-https://github.com/TourConnect/integrations/blob/master/XML/nonAccomodationContractCollectionEnvelope.xml
+https://github.com/TourConnect/TourConnect-API/blob/master/XML/nonAccomodationContractCollectionEnvelope.xml
 
 The corresponding generated XSD:
-https://github.com/TourConnect/integrations/blob/master/XSD/nonAccomodationContractCollectionEnvelope.xsd
+https://github.com/TourConnect/TourConnect-API/blob/master/XSD/nonAccomodationContractCollectionEnvelope.xsd
 
 ## Back to ReadMe
-https://github.com/TourConnect/integrations/blob/master/README.md
+https://github.com/TourConnect/TourConnect-API/blob/master/README.md

@@ -141,17 +141,17 @@ You can retrieve accomodation or non accomodation contracts separately or all co
 ### All Contracts
 
 See details about contracts here:
-https://github.com/TourConnect/integrations/blob/master/Contract.md
+https://github.com/TourConnect/TourConnect-API/blob/master/Contract.md
 
 ### Accomodation Contracts
 
 See details about accomodation contracts here:
-https://github.com/TourConnect/integrations/blob/master/AccomodationContract.md
+https://github.com/TourConnect/TourConnect-API/blob/master/AccomodationContract.md
 
 ### Non-Accomodation Contracts
 
 See details about non-accomodation contracts here:
-https://github.com/TourConnect/integrations/blob/master/NonAccomodationContract.md
+https://github.com/TourConnect/TourConnect-API/blob/master/NonAccomodationContract.md
 
 ## Questions?
 
