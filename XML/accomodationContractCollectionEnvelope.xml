@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<accomodationContractCollectionEnvelope>
+	<result>
+		<statusCode>200</statusCode>
+		<returnCode>0</returnCode>
+		<returnMessage>Success</returnMessage>
+	</result>
+	<data>
+		<resultCount>1</resultCount>
+		<prevPageUrl></prevPageUrl>
+		<nextPageUrl></nextPageUrl>
+		<items>
+			<contractId>5538a75a5452b43664000236</contractId>
+			<versionNumber>24</versionNumber>
+			<startDate>2016-04-01</startDate>
+			<endDate>2017-03-31</endDate>
+			<lastUpdated>2015-04-23</lastUpdated>
+			<signatures>
+				<supplierSignDate>2015-04-23</supplierSignDate>
+				<supplierUserName>Alan Demo</supplierUserName>
+				<supplierUserEmail>accomdemo@gmail.com</supplierUserEmail>
+				<contractorSignDate>2015-04-23</contractorSignDate>
+				<contractorUserName>Trinh Huynh</contractorUserName>
+				<contractorUserEmail>trinh@tourconnect.com</contractorUserEmail>
+			</signatures>
+			<contractor>
+				<termsAndConditions></termsAndConditions>
+				<submissionCriteria></submissionCriteria>
+			</contractor>
+			<supplierType>Accommodation</supplierType>
+			<accomodationLocation>
+				<corporatePhone>02 9900 5500</corporatePhone>
+				<corporateFax>02 9900 5501</corporateFax>
+				<URL>www.demosydney.com</URL>
+				<locationName>Demo Hotel - Circular Quay</locationName>
+				<referenceId>4fc8117a9af76c0001000023</referenceId>
+				<shortDescription>This is a demonstration hotel to show you how TourConnect works.  This hotel is a 4-star hotel in Circular Quay.  It is a luxury hotel with the spectacularly appointed rooms.</shortDescription>
+				<longDescription>Demo Hotel - Circular Quay is one of the best fake hotels in Australia.  It gives the best service and always has availability.  Every room features a contemporary colour scheme, iPod/iPad docking station, large 40&quot; LCD TV, new beds, comfortable bedding and relaxing chaise lounge.  The bathrooms are immaculate and have a beautiful bath for relaxing at night.
+					
+				Stay in a Demo Hotel and you will remember your experience for the rest of your life!  </longDescription>
+				<totalRooms>275</totalRooms>
+				<ratingsAndAmenities>
+					<rating>5</rating>
+					<ratingType>Certified Official Rating (ie Australian STAR Rating, New Zealand Qualmark Rating, etc.)</ratingType>
+					<classifications>Hotel</classifications>
+					<classifications>Resort</classifications>
+					<amenities>24 Hour Reception</amenities>
+					<amenities>24 Hour Room Service</amenities>
+					<amenities>Advanced Eco Accredited</amenities>
+					<amenities>All Rooms Non Somking</amenities>
+					<amenities>Baggage Holding Room</amenities>
+					<amenities>Bar on Premises</amenities>
+					<amenities>Bicycle Hire</amenities>
+					<amenities>Business Service Available</amenities>
+					<amenities>Cafe</amenities>
+					<amenities>Communal Lounge</amenities>
+					<amenities>Conference Facilities</amenities>
+					<amenities>Day Tours/Tour Desk</amenities>
+					<amenities>Disabled Facilities</amenities>
+					<amenities>Eftpos Facilities</amenities>
+					<amenities>Exercise Equipment</amenities>
+					<amenities>Facsimile</amenities>
+					<amenities>Free Morning Paper</amenities>
+					<amenities>Free Public Area Internet</amenities>
+					<amenities>Games Room</amenities>
+					<amenities>Gaming Machines</amenities>
+					<amenities>Groups</amenities>
+					<amenities>Guest Lounge</amenities>
+					<amenities>Gymnasium</amenities>
+					<amenities>High Rise (3 Floors or More)</amenities>
+					<amenities>Internet Facilities</amenities>
+					<amenities>Iron in Guest Laundry</amenities>
+					<amenities>Lift</amenities>
+					<amenities>Masseur/Masseuse</amenities>
+					<amenities>Parking -  Security Undercover</amenities>
+					<amenities>Photocopier</amenities>
+					<amenities>Pool</amenities>
+					<amenities>Safety Deposit Box Available</amenities>
+					<amenities>Spa</amenities>
+					<amenities>Tennis Court - Full Size</amenities>
+				</ratingsAndAmenities>
+				<locationPolicy>
+					<familyPolicyApplicable>true</familyPolicyApplicable>
+					<adultCount>2</adultCount>
+					<infantPolicyApplicable>false</infantPolicyApplicable>
+					<infantPolicyNotApplicableReason></infantPolicyNotApplicableReason>
+					<infantAge>0..2</infantAge>
+					<childPolicyApplicable>false</childPolicyApplicable>
+					<childPolicyNotApplicableReason></childPolicyNotApplicableReason>
+					<childrenAge>3..16</childrenAge>
+					<childrenCount>4</childrenCount>
+					<childAccompanyCount>0</childAccompanyCount>
+					<cancellationPolicyConditions>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicyConditions>
+					<freeOfChargePolicyApplicable>true</freeOfChargePolicyApplicable>
+					<freeOfChargePolicyConditions>1 FOC room for every 10 rooms paid in full.</freeOfChargePolicyConditions>
+					<groupPolicyApplicable>true</groupPolicyApplicable>
+					<groupPolicyConditions>A group is based on one booking for 6 rooms or more</groupPolicyConditions>
+					<checkInOut>
+						<checkInTime>2:00pm</checkInTime>
+						<checkOutTime>11:00am</checkOutTime>
+						<lateCheckout>true</lateCheckout>
+						<lateCheckoutUntil>2:00pm</lateCheckoutUntil>
+						<lateCheckoutCost>20</lateCheckoutCost>
+						<lateCheckoutCostType>Fixed Cost</lateCheckoutCostType>
+						<lateCheckoutPercentageType>Percentage of Nightly Rate</lateCheckoutPercentageType>
+						<earlyCheckin>true</earlyCheckin>
+						<earlyCheckinFrom>10:00am</earlyCheckinFrom>
+						<earlyCheckinCost>20</earlyCheckinCost>
+						<earlyCheckinCostType>Fixed Cost</earlyCheckinCostType>
+						<earlyCheckinPercentageType>Percentage of Nightly Rate</earlyCheckinPercentageType>
+					</checkInOut>
+				</locationPolicy>
+				<address>
+					<address1>125 Demonstration Lane</address1>
+					<address2></address2>
+					<city>Sydney</city>
+					<state>NSW</state>
+					<country>Australia</country>
+					<postalCode>2000</postalCode>
+				</address>
+				<contacts>
+					<firstName>Sarah</firstName>
+					<lastName>Jones</lastName>
+					<email>sarah@demohotels.com</email>
+					<phone>02 9900 5500</phone>
+					<fax>02 9900 5501</fax>
+					<contactType>Sales</contactType>
+				</contacts>
+				<contacts>
+					<firstName>Tim</firstName>
+					<lastName>Thomas</lastName>
+					<email>tim@demohotels.com</email>
+					<phone>02 9900 5500</phone>
+					<fax>02 9900 5501</fax>
+					<contactType>Billing</contactType>
+				</contacts>
+				<contacts>
+					<firstName>Laura</firstName>
+					<lastName>Allen</lastName>
+					<email>laura@demohotels.com</email>
+					<phone>02 9900 5500</phone>
+					<fax>02 9900 5501</fax>
+					<contactType>Reservation</contactType>
+				</contacts>
+				<specialOffersProvided>true</specialOffersProvided>
+				<products>
+					<name>Executive City View Suite</name>
+					<code>SUITE</code>
+					<referenceId>4fdd9e9d825bfa00010000a9</referenceId>
+					<shortDesc>This is the most beautiful room on the property.  Every Deluxe City View Room contains a foyer, dining room, and living room.  Your stay will be the most amazing you have every had in Sydney.</shortDesc>
+					<detail>Every Deluxe City View Room has tons of room and luxury for even the most discerning traveler.</detail>
+					<generalNotes>The Deluxe City View Rooms are all located on floors 35-45.</generalNotes>
+					<totalRoomOfThisType>120</totalRoomOfThisType>
+					<interconnectingRooms>false</interconnectingRooms>
+					<classification>suites</classification>
+					<avgRoomSize>85</avgRoomSize>
+					<roomSizeUnits>square meters</roomSizeUnits>
+					<bedding>
+						<existingBedding>Single Single</existingBedding>
+						<numberOfSofa>1</numberOfSofa>
+						<numberOfRollaways>1</numberOfRollaways>
+						<existingBeddingForChildren>true</existingBeddingForChildren>
+					</bedding>
+					<bedding>
+						<existingBedding>King</existingBedding>
+						<numberOfSofa>1</numberOfSofa>
+						<numberOfRollaways>1</numberOfRollaways>
+						<existingBeddingForChildren>true</existingBeddingForChildren>
+					</bedding>
+					<bedding>
+						<existingBedding>Double Double</existingBedding>
+						<numberOfSofa>0</numberOfSofa>
+						<numberOfRollaways>0</numberOfRollaways>
+						<existingBeddingForChildren>true</existingBeddingForChildren>
+					</bedding>
+					<amenities>Barbecue</amenities>
+					<amenities>DVD Hire</amenities>
+					<amenities>Free Morning Paper</amenities>
+					<amenities>Air-Conditioning</amenities>
+					<amenities>Bath</amenities>
+					<amenities>Bath Robes</amenities>
+					<amenities>Blanket</amenities>
+					<amenities>Breakfast Included</amenities>
+					<amenities>CD Player</amenities>
+					<amenities>Ceiling Fan/s</amenities>
+					<amenities>Central Heating</amenities>
+					<amenities>Clock Radio</amenities>
+					<amenities>Clothes Dryer</amenities>
+					<amenities>Combination Washer/Dryer</amenities>
+					<amenities>Dishwasher</amenities>
+					<amenities>DVD Player</amenities>
+					<amenities>Ensuite</amenities>
+					<amenities>Fireplace-Gas</amenities>
+					<amenities>Free Pay TV</amenities>
+					<amenities>Full Cooking Facilities</amenities>
+					<amenities>Hairdryer</amenities>
+					<amenities>Heater</amenities>
+					<amenities>In House Movies</amenities>
+					<amenities>Internet Access Wireless</amenities>
+					<amenities>Ipod Connection/Dock</amenities>
+					<amenities>Iron In Room</amenities>
+					<amenities>Laundry In Room</amenities>
+					<amenities>LCD/Plasma Television</amenities>
+					<amenities>Linen Provided/Incl in Tariff</amenities>
+					<amenities>Microwave Oven</amenities>
+					<amenities>Mini Bar</amenities>
+					<amenities>Ocean View Room</amenities>
+					<amenities>Patio</amenities>
+					<amenities>Private Bathroom</amenities>
+					<amenities>Private Bathroom Accessible</amenities>
+					<amenities>Refrigerator</amenities>
+					<amenities>Reverse Cycle Air-Con</amenities>
+					<amenities>Safe</amenities>
+					<amenities>Spa In Bath</amenities>
+					<amenities>Spa on Deck/Balcony</amenities>
+					<amenities>Tea/Coffee Making Facilities</amenities>
+					<amenities>Telephone</amenities>
+					<amenities>Turndown Service</amenities>
+					<amenities>Walk In Robe</amenities>
+					<amenities>Washing Machine</amenities>
+					<specialOffers>
+						<title>Honeymoon Upgrade</title>
+						<bookingCode>HNYMOON</bookingCode>
+						<upgradeProcessedAt>2015-04-23</upgradeProcessedAt>
+						<validDatesOfSale>
+							<fromDate>2015-04-20</fromDate>
+							<toDate>2017-03-31</toDate>
+						</validDatesOfSale>
+						<validDatesOfTravel>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2017-03-31</toDate>
+						</validDatesOfTravel>
+						<combineWithOther>true</combineWithOther>
+						<combineOfferDesc>Honey Bonus</combineOfferDesc>
+						<specialConditions>Must quote booking code at the time of booking. Room upgrades are subject to availability.</specialConditions>
+					</specialOffers>
+					<specialOffers>
+						<title>Honeymoon Bonus</title>
+						<bookingCode>LOVEBIRDS17</bookingCode>
+						<upgradeProcessedAt>2015-04-23</upgradeProcessedAt>
+						<validDatesOfSale>
+							<fromDate>2015-04-20</fromDate>
+							<toDate>2017-03-31</toDate>
+						</validDatesOfSale>
+						<validDatesOfTravel>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2017-03-31</toDate>
+						</validDatesOfTravel>
+						<combineWithOther>true</combineWithOther>
+						<combineOfferDesc>Combinable with the Honeymoon Upgrade only.</combineOfferDesc>
+						<specialConditions>Must quote at the time of booking, subject to availability.</specialConditions>
+						<offerDetail>Receive a free bottle of champagne for any couple on their honeymoon.</offerDetail>
+						<rateType>Per package</rateType>
+						<rate>Free of charge</rate>
+						<rateDiscountType>Percentage</rateDiscountType>
+						<rateDiscountAmount />
+					</specialOffers>
+					<specialOffers>
+						<title>20% off Weekday</title>
+						<bookingCode>20WKD</bookingCode>
+						<upgradeProcessedAt>2015-04-23</upgradeProcessedAt>
+						<validDatesOfSale>
+							<fromDate>2015-04-20</fromDate>
+							<toDate>2016-09-30</toDate>
+						</validDatesOfSale>
+						<validDatesOfTravel>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2016-09-30</toDate>
+						</validDatesOfTravel>
+						<combineWithOther>false</combineWithOther>
+						<combineOfferDesc />
+						<specialConditions>Not combinable with any other offer. Must quote booking code at the time of booking.</specialConditions>
+						<offerDetail>Receive 20% off a weekday stay (Monday - Thursday) during winter, see valid dates of travel.</offerDetail>
+						<rateType>Per night</rateType>
+						<rate>Discount</rate>
+						<rateDiscountType>Percentage</rateDiscountType>
+						<rateDiscountAmount>20</rateDiscountAmount>
+					</specialOffers>
+					<specialOffers>
+						<title>Group Stay</title>
+						<bookingCode>gogroups16</bookingCode>
+						<upgradeProcessedAt>2015-04-23</upgradeProcessedAt>
+						<validDatesOfSale>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2016-11-30</toDate>
+						</validDatesOfSale>
+						<validDatesOfTravel>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2016-11-30</toDate>
+						</validDatesOfTravel>
+						<combineWithOther>true</combineWithOther>
+						<combineOfferDesc>Any other special offer.</combineOfferDesc>
+						<specialConditions>Must quote booking reference at the time of booking. Children are not included in the offer. Groups consists of bookings for Adults only.</specialConditions>
+						<offerDetail>Receive 15% off for group bookings of more than 6 guests.</offerDetail>
+						<rateType>Per night</rateType>
+						<rate>Discount</rate>
+						<rateDiscountType>Percentage</rateDiscountType>
+						<rateDiscountAmount>10</rateDiscountAmount>
+					</specialOffers>
+					<rateSets>
+						<name>Mid Season Europe</name>
+						<code>MS-EU</code>
+						<market>Europe</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2016-05-31</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>nett</rates>
+							<commissionPercentage></commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season North America</name>
+						<code>MS-NA</code>
+						<market>North America</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2016-05-31</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>nett</rates>
+							<commissionPercentage></commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season Domestic</name>
+						<code>MS-AU</code>
+						<market>Domestic</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-04-01</fromDate>
+							<toDate>2016-05-31</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType></templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Low Season Europe</name>
+						<code>LS-EU</code>
+						<market>Europe</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-06-01</fromDate>
+							<toDate>2016-08-31</toDate>
+							<name>Low Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<meals></meals>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Low Season North America</name>
+						<code>LS-NA</code>
+						<market>North America</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-06-01</fromDate>
+							<toDate>2016-08-31</toDate>
+							<name>Low Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season Europe</name>
+						<code>MS-EU</code>
+						<market>Europe</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-09-01</fromDate>
+							<toDate>2016-11-30</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>nett</rates>
+							<commissionPercentage></commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season North America</name>
+						<code>MS-NA</code>
+						<market>North America</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-09-01</fromDate>
+							<toDate>2016-11-30</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>nett</rates>
+							<commissionPercentage></commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season Domestic</name>
+						<code>MS-AU</code>
+						<market>Domestic</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-09-01</fromDate>
+							<toDate>2016-11-30</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType></templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Low Season Domestic</name>
+						<code>LS-AU</code>
+						<market>Domestic</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-06-01</fromDate>
+							<toDate>2016-08-31</toDate>
+							<name>Low Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$125</retailRate>
+								<nettRate>$93.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season Europe</name>
+						<code>MS-EU</code>
+						<market>Europe</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2017-02-01</fromDate>
+							<toDate>2017-03-31</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>nett</rates>
+							<commissionPercentage></commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season North America</name>
+						<code>MS-NA</code>
+						<market>North America</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2017-02-01</fromDate>
+							<toDate>2017-03-31</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>nett</rates>
+							<commissionPercentage></commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>Mid Season Domestic</name>
+						<code>MS-AU</code>
+						<market>Domestic</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>A fee in the amount of 100% of the first night's rate will be applied to bookings cancelled within 24 hours of 5pm on the date of arrival.</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2017-02-01</fromDate>
+							<toDate>2017-03-31</toDate>
+							<name>Mid Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType></templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>21</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>7</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>2</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$150</retailRate>
+								<nettRate>$112.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>High Season Domestic Weekday</name>
+						<code>HS-AU-WD</code>
+						<market>Domestic</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>30 days cancellation notice</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-12-01</fromDate>
+							<toDate>2017-01-31</toDate>
+							<name>High Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>30</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>15</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>10</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$175</retailRate>
+								<nettRate>$131.25</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$175</retailRate>
+								<nettRate>$131.25</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$175</retailRate>
+								<nettRate>$131.25</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>30</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>15</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>10</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay>2</minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$200</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$200</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$200</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<accommodationRates>
+							<templateType>Stay Pay</templateType>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>30</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>15</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>10</days>
+							</allotments>
+							<noOfStayDays>7</noOfStayDays>
+							<multipleStayPayAllowed>true</multipleStayPayAllowed>
+							<maxFocNights>4</maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>nett</rates>
+							<commissionPercentage></commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>$150</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>High Season Europe Weekday</name>
+						<code>HS-EU-WD</code>
+						<market>Europe</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>30 days notice for all cancellations</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-12-01</fromDate>
+							<toDate>2017-01-31</toDate>
+							<name>High Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>30</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>15</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>10</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$185</retailRate>
+								<nettRate>$138.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$185</retailRate>
+								<nettRate>$138.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$185</retailRate>
+								<nettRate>$138.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>30</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>15</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>10</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$210</retailRate>
+								<nettRate>$157.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$210</retailRate>
+								<nettRate>$157.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$210</retailRate>
+								<nettRate>$157.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+					<rateSets>
+						<name>High Season North America Weekday</name>
+						<code>HS-NA-WD</code>
+						<market>North America</market>
+						<allOtherMarket>false</allOtherMarket>
+						<cancellationPolicy>30 days notice for all cancellations</cancellationPolicy>
+						<applicableDates>
+							<fromDate>2016-12-01</fromDate>
+							<toDate>2017-01-31</toDate>
+							<name>High Season</name>
+						</applicableDates>
+						<blackoutDates>
+							<fromDate>2016-05-26</fromDate>
+							<toDate>2016-06-12</toDate>
+							<name>Vivid Sydney</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-04-22</fromDate>
+							<toDate>2016-04-25</toDate>
+							<name>Anzac Day Long Weekend</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-24</fromDate>
+							<toDate>2016-12-26</toDate>
+							<name>Xmas &amp; Boxing Day</name>
+						</blackoutDates>
+						<blackoutDates>
+							<fromDate>2016-12-31</fromDate>
+							<toDate>2017-01-01</toDate>
+							<name>NYE &amp; New Year's Day</name>
+						</blackoutDates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Mon</daysOfWeek>
+							<daysOfWeek>Tue</daysOfWeek>
+							<daysOfWeek>Wed</daysOfWeek>
+							<daysOfWeek>Thu</daysOfWeek>
+							<daysOfWeek>Fri</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>30</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>15</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>10</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$185</retailRate>
+								<nettRate>$138.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$185</retailRate>
+								<nettRate>$138.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$185</retailRate>
+								<nettRate>$138.75</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<accommodationRates>
+							<templateType>Nightly</templateType>
+							<daysOfWeek>Sat</daysOfWeek>
+							<daysOfWeek>Sun</daysOfWeek>
+							<roomRateType>default</roomRateType>
+							<allocationType>Allotment</allocationType>
+							<allotments>
+								<value>20</value>
+								<days>30</days>
+							</allotments>
+							<allotments>
+								<value>10</value>
+								<days>15</days>
+							</allotments>
+							<allotments>
+								<value>5</value>
+								<days>10</days>
+							</allotments>
+							<noOfStayDays></noOfStayDays>
+							<multipleStayPayAllowed>false</multipleStayPayAllowed>
+							<maxFocNights></maxFocNights>
+							<minStay></minStay>
+							<maxStay></maxStay>
+							<rates>include_commission</rates>
+							<commissionPercentage>25</commissionPercentage>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Single</description>
+								<maxAdults>1</maxAdults>
+								<maxAdultsPlusChild>1</maxAdultsPlusChild>
+								<retailRate>$210</retailRate>
+								<nettRate>$157.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Twin</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$210</retailRate>
+								<nettRate>$157.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode>Max 3</priceCode>
+								<description>Double</description>
+								<maxAdults>2</maxAdults>
+								<maxAdultsPlusChild>2</maxAdultsPlusChild>
+								<retailRate>$210</retailRate>
+								<nettRate>$157.50</nettRate>
+								<extraAdult>$25</extraAdult>
+								<extraChild>$15</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Triple</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>Quad Plus</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>7 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+							<rateDetails>
+								<priceCode></priceCode>
+								<description>8 Guests</description>
+								<maxAdults></maxAdults>
+								<maxAdultsPlusChild></maxAdultsPlusChild>
+								<retailRate>n/a</retailRate>
+								<nettRate>n/a</nettRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</rateDetails>
+						</accommodationRates>
+						<extras>
+							<transfers>
+								<code>AIRX</code>
+								<title>Airport Transfer</title>
+								<fromLocation>Airport</fromLocation>
+								<toLocation>Hotel</toLocation>
+								<maxPassenger>8</maxPassenger>
+								<provideByHotel>true</provideByHotel>
+								<includeBabySeat>true</includeBabySeat>
+								<isComplimentary>false</isComplimentary>
+								<rate>nett</rate>
+								<adultReturnNettRate>$30</adultReturnNettRate>
+								<childReturnNettRate>$20</childReturnNettRate>
+								<adultOneWayNettRate>$15</adultOneWayNettRate>
+								<childOneWayNettRate>n/a</childOneWayNettRate>
+								<luggageRestrictions />
+								<pickUpDetail>We will meet you at the arrivals lounge with a sign.</pickUpDetail>
+							</transfers>
+							<meals>
+								<details>
+									<name>Continental Breakfast</name>
+									<adultNett>$22.50</adultNett>
+									<adultRetail>$30</adultRetail>
+									<childNett>$15</childNett>
+									<childRetail>$20</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>Full Breakfast (A La Carte)</name>
+									<adultNett>$18.75</adultNett>
+									<adultRetail>$25</adultRetail>
+									<childNett>$11.25</childNett>
+									<childRetail>$15</childRetail>
+									<desc></desc>
+								</details>
+								<details>
+									<name>3 Course Dinner at Restaurant Bar/Cafe</name>
+									<adultNett>$41.25</adultNett>
+									<adultRetail>$55</adultRetail>
+									<childNett>$26.25</childNett>
+									<childRetail>$35</childRetail>
+									<desc />
+								</details>
+								<rateType>include_commission</rateType>
+								<commission>25</commission>
+							</meals>
+							<other>
+								<name>Spa Package</name>
+								<description>1 hour deluxe spa massage (Thai or Swedish) in our Deluxe Day Spa, and a herbal facial.</description>
+								<rateType>include_commission</rateType>
+								<isNett>false</isNett>
+								<commission>25</commission>
+								<details>
+									<name>Adult</name>
+									<adults>$1</adults>
+									<adultsPlusChild>$1</adultsPlusChild>
+									<nettRate>90.00</nettRate>
+									<retailRate>120.00</retailRate>
+									<extraAdult>n/a</extraAdult>
+									<extraChild>n/a</extraChild>
+								</details>
+							</other>
+						</extras>
+					</rateSets>
+				</products>
+			</accomodationLocation>
+		</items>
+	</data>
+</accomodationContractCollectionEnvelope>	

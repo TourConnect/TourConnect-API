@@ -1,0 +1,3188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nonAccomodationContractCollection>
+	<resultCount>1</resultCount>
+	<prevPageUrl></prevPageUrl>
+	<nextPageUrl></nextPageUrl>
+	<items>
+		<contractId>5538a7315452b4466a000026</contractId>
+		<versionNumber>23</versionNumber>
+		<startDate>2016-04-01</startDate>
+		<endDate>2017-03-31</endDate>
+		<lastUpdated>2015-04-23</lastUpdated>
+		<signatures>
+			<supplierSignDate>2015-04-23</supplierSignDate>
+			<supplierUserName>Tracy Wynn</supplierUserName>
+			<supplierUserEmail>trinh+8@tourconnect.com</supplierUserEmail>
+			<contractorSignDate>2015-04-23</contractorSignDate>
+			<contractorUserName>Trinh Huynh</contractorUserName>
+			<contractorUserEmail>trinh@tourconnect.com</contractorUserEmail>
+		</signatures>
+		<contractor>
+			<termsAndConditions></termsAndConditions>
+			<submissionCriteria></submissionCriteria>
+		</contractor>
+		<supplierType>Non Accommodation</supplierType>
+		<nonAccommodationLocation>
+			<corporatePhone>1800825570</corporatePhone>
+			<corporateFax></corporateFax>
+			<URL></URL>
+			<locationName>Whitsundays</locationName>
+			<referenceId>52f82e426366369fc9000002</referenceId>
+			<shortDescription>We are an exciting, innovative and experienced maritime operator in the wonderful Whitsundays! We are so lucky to work in one of the world's most spectacular spots and we pride ourselves on showcasing the best of the Whitsundays to all who visit.</shortDescription>
+			<longDescription>Multi-award winning Trinh's Sample Cruise Co. is an exciting and innovative day cruise operator, run by an experienced tourism team. We provide a fantastic selection of day cruise experiences and activities that really make the most of this incredible part of the world - including the stunning Whitsunday Islands National Park and the Great Barrier Reef Marine Park. We now even offer the opportunity to spend the night under the stars at our outer Great Barrier Reef pontoon.
+				
+			Our day cruises include visits to Great Barrier Reef, the Camira Sailing Adventure to Whitehaven Beach and Island Escape day cruises to Daydream Island Resort and Spa, Hamilton Island as well as a selection of cruises to Whitehaven Beach.</longDescription>
+			<locationPolicy>
+				<familyPolicyApplicable>false</familyPolicyApplicable>
+				<adultCount>2</adultCount>
+				<infantPolicyApplicable>true</infantPolicyApplicable>
+				<infantPolicyNotApplicableReason>Infants are not allowed on dives for safety reasons.</infantPolicyNotApplicableReason>
+				<infantAge>0..2</infantAge>
+				<childPolicyApplicable>false</childPolicyApplicable>
+				<childPolicyNotApplicableReason></childPolicyNotApplicableReason>
+				<childrenAge>12..16</childrenAge>
+				<childrenCount>2</childrenCount>
+				<childAccompanyCount>0</childAccompanyCount>
+				<cancellationPolicyConditions>24 hr notice or 100% cancellation applies. </cancellationPolicyConditions>
+				<freeOfChargePolicyApplicable>true</freeOfChargePolicyApplicable>
+				<freeOfChargePolicyConditions>For a group of 10 passengers, 1 FOC allowed on the condition that all divers are certified.</freeOfChargePolicyConditions>
+				<groupPolicyApplicable>true</groupPolicyApplicable>
+				<groupPolicyConditions>STANDARD GROUPS are defined as promotional or affinity groups that are a minimum of 8 cabins and a maximum of 99 cabins. For groups greater than 99
+					cabins, our large group/incentive policy will apply.
+					
+					GROUP PRICING will be offered for all standard groups. If a group falls below 5 cabins at time of final payment, then legitimate proof of promotion relevant to
+					the group will be required to maintain the group rate. All group pricing is in U.S. Dollars and valid for U.S. and Canadian residents only. MSC Cruises reserves the
+					right to pass on any fuel surcharge without prior notice to guests. If standard group rates are reduced, existing groups will be converted to these lower rates. If the overall FIT standard pricing is reduced (excluding promotional rates, travel agent rates, interline rates and military/civil service rates) prior to final payment, then the group rates will be adjusted accordingly.
+					
+				GROUP COMMISSION defaults to an agents established commission level. No commission is paid on NCF and GFTS.</groupPolicyConditions>
+			</locationPolicy>
+			<address>
+				<address1>1 Shingley Drive</address1>
+				<address2></address2>
+				<city>Airlie Beach</city>
+				<state>QLD</state>
+				<country>Australia</country>
+				<postalCode>4802</postalCode>
+			</address>
+			<specialOffersProvided>true</specialOffersProvided>
+			<contacts>
+				<firstName>Trinh</firstName>
+				<lastName>H.</lastName>
+				<email>trinhsamplesupplier@gmail.com</email>
+				<phone>7293535</phone>
+				<fax></fax>
+				<contactType>Sales</contactType>
+			</contacts>
+			<contacts>
+				<firstName>Trinh</firstName>
+				<lastName>H.</lastName>
+				<email>trinhsamplesupplier@gmail.com</email>
+				<phone>7293535</phone>
+				<fax></fax>
+				<contactType>Billing</contactType>
+			</contacts>
+			<contacts>
+				<firstName>Trinh</firstName>
+				<lastName>H.</lastName>
+				<email>trinhsamplesupplier@gmail.com</email>
+				<phone>7293535</phone>
+				<fax></fax>
+				<contactType>Reservation</contactType>
+			</contacts>
+			<products>
+				<name>Double Dive</name>
+				<code>DD-WS</code>
+				<referenceId>552f453b0f9a71dc1500003e</referenceId>
+				<shortDesc>Double dives depart at 9am from the PRO DIVE boatshed and return approximately 1:30pm, often returning to shore for morning tea during our surface interval. Dive sites are determined on the day of diving, PRO DIVE welcome suggestions of dive sites with particular diverís interests. With Over 60 Dive sites PRO DIVE will not dive the same site twice when possible unless requested.
+					
+				If diving is unavailable aboard the Explorer IV arrangements will be made for shore dives when possible.</shortDesc>
+				<detail>Double dives depart at 9am from the PRO DIVE boatshed and return approximately 1:30pm, often returning to shore for morning tea during our surface interval. Dive sites are determined on the day of diving, PRO DIVE welcome suggestions of dive sites with particular diverís interests. With Over 60 Dive sites PRO DIVE will not dive the same site twice when possible unless requested.
+					
+				If diving is unavailable aboard the Explorer IV arrangements will be made for shore dives when possible.</detail>
+				<generalNotes></generalNotes>
+				<tourDurations>6</tourDurations>
+				<desc>Double dives depart at 9am from the PRO DIVE boatshed and return approximately 1:30pm, often returning to shore for morning tea during our surface interval. Dive sites are determined on the day of diving, PRO DIVE welcome suggestions of dive sites with particular diverís interests. With Over 60 Dive sites PRO DIVE will not dive the same site twice when possible unless requested.
+					
+					If diving is unavailable aboard the Explorer IV arrangements will be made for shore dives when possible.
+					
+				Dive packages include any local dive site with the exception of Balls Pyramid which is an additional cost. Once you book a dive package you are able to upgrade your package on the Island to include Balls Pyramid should the conditions be possible and you have the relevant experience required (Deep / Advanced certified). Divers with pre booked packages diving with PRO DIVE will always take priority for this trip. Please enter the dates you wish to dive when prompted at the end of the booking process.</desc>
+				<adultMinPax>1</adultMinPax>
+				<childMinPax>1</childMinPax>
+				<totalMinPax>1</totalMinPax>
+				<adultMaxPax>10</adultMaxPax>
+				<childMaxPax>10</childMaxPax>
+				<totalMaxPax>10</totalMaxPax>
+				<standardInclusion>- Double Dive with an experience and certified diver
+- Cruise</standardInclusion>
+				<exclusion>- All gear hire</exclusion>
+				<whatToBring>- Person in good health
+					- Certificates/ Dive credentials
+				- Sunscreen</whatToBring>
+				<specialOffers>
+					<title>Free Underwater Photo</title>
+					<bookingCode>under the sea snap 1617</bookingCode>
+					<upgradeProcessedAt>2015-04-23</upgradeProcessedAt>
+					<validDatesOfSale>
+						<fromDate>2015-04-01</fromDate>
+						<toDate>2017-03-31</toDate>
+					</validDatesOfSale>
+					<validDatesOfTravel>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2017-03-31</toDate>
+					</validDatesOfTravel>
+					<combineWithOther>false</combineWithOther>
+					<combineOfferDesc />
+					<specialConditions>Not combinable with any other offer. Must quote booking code at the time of the reservation. Minimum of 2 passengers, 1 photo per couple.
+						
+					Photos are subject to water conditions and availability of underwater photographer. Please book in advance to guarantee availability.</specialConditions>
+					<offerDetail>Free underwater photo taken by our photo specialist during your pre-purchased dive.</offerDetail>
+					<rateType>Per package</rateType>
+					<rate>Free of charge</rate>
+					<rateDiscountType>Percentage</rateDiscountType>
+					<rateDiscountAmount />
+				</specialOffers>
+				<specialOffers>
+					<title>25% off Doubles</title>
+					<bookingCode>25DD</bookingCode>
+					<upgradeProcessedAt>2015-04-23</upgradeProcessedAt>
+					<validDatesOfSale>
+						<fromDate>2015-04-17</fromDate>
+						<toDate>2017-03-31</toDate>
+					</validDatesOfSale>
+					<validDatesOfTravel>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2016-06-01</toDate>
+					</validDatesOfTravel>
+					<validDatesOfTravel>
+						<fromDate>2016-10-01</fromDate>
+						<toDate>2017-03-31</toDate>
+					</validDatesOfTravel>
+					<combineWithOther>false</combineWithOther>
+					<combineOfferDesc />
+					<specialConditions>Must be booked at least 2 weeks in advance, for a minimum of 2 passengers. Must not be booked in conjunction with any other offers. Must quote booking code at the time of booking.</specialConditions>
+					<offerDetail>Receive 25% off full priced tickets for a double dive for 2 people.</offerDetail>
+					<rateType>Per number of guests</rateType>
+					<rate>Rate amount</rate>
+					<rateDiscountType>Percentage</rateDiscountType>
+					<rateDiscountAmount />
+				</specialOffers>
+				<specialOffers>
+					<title>10% off Groups</title>
+					<bookingCode>10GROUPS</bookingCode>
+					<upgradeProcessedAt>2015-04-23</upgradeProcessedAt>
+					<validDatesOfSale>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2016-11-30</toDate>
+					</validDatesOfSale>
+					<validDatesOfTravel>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2016-11-30</toDate>
+					</validDatesOfTravel>
+					<combineWithOther>true</combineWithOther>
+					<combineOfferDesc>Combinable with Free Underwater Photo offer only.</combineOfferDesc>
+					<specialConditions>Must quote booking code at the time of booking. Groups consists of Adults only.</specialConditions>
+					<offerDetail>Receive 10% off of groups of 6 or more.</offerDetail>
+					<rateType>Per person</rateType>
+					<rate>Discount</rate>
+					<rateDiscountType>Percentage</rateDiscountType>
+					<rateDiscountAmount>10</rateDiscountAmount>
+				</specialOffers>
+				<rateSets>
+					<name>Low Season Asia</name>
+					<code>LS-ASIA</code>
+					<market>Asia</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2016-05-07</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$131.25</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Low Season Domestic</name>
+					<code>LS-DOM</code>
+					<market>Domestic</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2016-05-07</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>true</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>true</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$70</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$122.50</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Low Season Eurpoe</name>
+					<code>LS-EURO</code>
+					<market>Europe</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2016-05-07</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$131.25</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Low Season North America</name>
+					<code>LS-NORTHAM</code>
+					<market>North America</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-04-01</fromDate>
+						<toDate>2016-05-07</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$131.25</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Low Season Asia</name>
+					<code>LS-ASIA</code>
+					<market>Asia</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-09-08</fromDate>
+						<toDate>2016-10-31</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$131.25</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Low Season Domestic</name>
+					<code>LS-DOM</code>
+					<market>Domestic</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-09-08</fromDate>
+						<toDate>2016-10-31</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>true</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>true</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$70</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$122.50</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Low Season Eurpoe</name>
+					<code>LS-EURO</code>
+					<market>Europe</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-09-08</fromDate>
+						<toDate>2016-10-31</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$131.25</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Low Season North America</name>
+					<code>LS-NORTHAM</code>
+					<market>North America</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-09-08</fromDate>
+						<toDate>2016-10-31</toDate>
+						<name>Low Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$100</retailRate>
+							<nettRate>$75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$175</retailRate>
+							<nettRate>$131.25</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Asia</name>
+					<code>MS-ASIA</code>
+					<market>Asia</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-05-08</fromDate>
+						<toDate>2016-09-07</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Domestic</name>
+					<code>MS-DOM</code>
+					<market>Domestic</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-05-08</fromDate>
+						<toDate>2016-09-07</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>true</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>true</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$87.50</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$140</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Eurpoe</name>
+					<code>MS-EURO</code>
+					<market>Europe</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-05-08</fromDate>
+						<toDate>2016-09-07</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season North America</name>
+					<code>MS-NORTHAM</code>
+					<market>North America</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-05-08</fromDate>
+						<toDate>2016-09-07</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Asia</name>
+					<code>MS-ASIA</code>
+					<market>Asia</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2017-02-01</fromDate>
+						<toDate>2017-03-31</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Domestic</name>
+					<code>MS-DOM</code>
+					<market>Domestic</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2017-02-01</fromDate>
+						<toDate>2017-03-31</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>true</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>true</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$87.50</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$140</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Eurpoe</name>
+					<code>MS-EURO</code>
+					<market>Europe</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2017-02-01</fromDate>
+						<toDate>2017-03-31</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season North America</name>
+					<code>MS-NORTHAM</code>
+					<market>North America</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>24 hr notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2017-02-01</fromDate>
+						<toDate>2017-03-31</toDate>
+						<name>Mid Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>High Season Asia</name>
+					<code>HS-ASIA</code>
+					<market>Asia</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>7 day notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-11-01</fromDate>
+						<toDate>2017-01-31</toDate>
+						<name>High Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$150</retailRate>
+							<nettRate>$112.50</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$225</retailRate>
+							<nettRate>$168.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Domestic</name>
+					<code>MS-DOM</code>
+					<market>Domestic</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>7 day notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-11-01</fromDate>
+						<toDate>2017-01-31</toDate>
+						<name>High Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>true</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>true</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$87.50</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$140</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season Eurpoe</name>
+					<code>MS-EURO</code>
+					<market>Europe</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>7 day notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-11-01</fromDate>
+						<toDate>2017-01-31</toDate>
+						<name>High Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+				<rateSets>
+					<name>Mid Season North America</name>
+					<code>MS-NORTHAM</code>
+					<market>North America</market>
+					<allOtherMarket>false</allOtherMarket>
+					<cancellationPolicy>7 day notice or 100% cancellation applies. </cancellationPolicy>
+					<applicableDates>
+						<fromDate>2016-11-01</fromDate>
+						<toDate>2017-01-31</toDate>
+						<name>High Season</name>
+					</applicableDates>
+					<blackoutDates>
+						<fromDate>2016-12-25</fromDate>
+						<toDate>2016-12-26</toDate>
+						<name>Christmas &amp; Boxing Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2016-12-31</fromDate>
+						<toDate>2017-01-01</toDate>
+						<name>NYE &amp; New Year's Day</name>
+					</blackoutDates>
+					<blackoutDates>
+						<fromDate>2017-01-26</fromDate>
+						<toDate>2017-01-26</toDate>
+						<name>Australia Day</name>
+					</blackoutDates>
+					<nonAccommodationRates>
+						<groupSize></groupSize>
+						<departsOnDays>Sun</departsOnDays>
+						<departsOnDays>Mon</departsOnDays>
+						<departsOnDays>Tue</departsOnDays>
+						<departsOnDays>Wed</departsOnDays>
+						<departsOnDays>Thu</departsOnDays>
+						<departsOnDays>Fri</departsOnDays>
+						<departsOnDays>Sat</departsOnDays>
+						<pickupDepartTime> 9:00am</pickupDepartTime>
+						<pickupDepartLocation>Whitsundays Maritime Terminal</pickupDepartLocation>
+						<pickupNotes>Please arrive at least 30 minutes earlier for boarding and check-in.</pickupNotes>
+						<hotelPickupIncluded>false</hotelPickupIncluded>
+						<dropoffDepartTime> 5:00pm</dropoffDepartTime>
+						<dropoffDepartLocation>Whitsundays Maritime Terminal</dropoffDepartLocation>
+						<dropoffNotes></dropoffNotes>
+						<hotelDropoffIncluded>false</hotelDropoffIncluded>
+						<gstTaxIncluded>true</gstTaxIncluded>
+						<includeMeal>false</includeMeal>
+						<mealDetail></mealDetail>
+						<rateDetails>
+							<description>Adult</description>
+							<maxAdults>1</maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>$125</retailRate>
+							<nettRate>$93.75</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Child</description>
+							<maxAdults></maxAdults>
+							<maxAdultsPlusChild>1</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Family</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>4</maxAdultsPlusChild>
+							<retailRate>n/a</retailRate>
+							<nettRate>n/a</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+						<rateDetails>
+							<description>Two Adults</description>
+							<maxAdults>2</maxAdults>
+							<maxAdultsPlusChild>2</maxAdultsPlusChild>
+							<retailRate>$200</retailRate>
+							<nettRate>$150</nettRate>
+							<extraAdult>n/a</extraAdult>
+							<extraChild>n/a</extraChild>
+						</rateDetails>
+					</nonAccommodationRates>
+					<extras>
+						<transfers>
+							<code>APTX</code>
+							<title>Airport Transfer</title>
+							<fromLocation>Proserpine Airport (PPP)</fromLocation>
+							<toLocation>Cruise Terminal or Designated Hotel</toLocation>
+							<maxPassenger>15</maxPassenger>
+							<provideByHotel>false</provideByHotel>
+							<includeBabySeat>true</includeBabySeat>
+							<isComplimentary>false</isComplimentary>
+							<rate>include_commission</rate>
+							<adultReturnNettRate>$37.50</adultReturnNettRate>
+							<childReturnNettRate>n/a</childReturnNettRate>
+							<adultOneWayNettRate>$18.75</adultOneWayNettRate>
+							<childOneWayNettRate>n/a</childOneWayNettRate>
+							<luggageRestrictions>2x 23kg bags per pax. If carrying additional luggage, please contact beforehand to make arrangements.</luggageRestrictions>
+							<pickUpDetail>Pickup from the Domestic or the International Terminal. Must provide flight number and local contact number at the time of booking. </pickUpDetail>
+						</transfers>
+						<meals>
+							<details>
+								<name>Continental Breakfast</name>
+								<adultNett>$15</adultNett>
+								<adultRetail>$20</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc>Served onboard on the way to the final dive sites</desc>
+							</details>
+							<details>
+								<name>Onboard Lunch Buffet</name>
+								<adultNett>$18.75</adultNett>
+								<adultRetail>$25</adultRetail>
+								<childNett />
+								<childRetail />
+								<desc />
+							</details>
+							<rateType>include_commission</rateType>
+							<commission>25</commission>
+						</meals>
+						<other>
+							<name>Gear Hire</name>
+							<description>Includes all gear hire equipment</description>
+							<rateType>include_commission</rateType>
+							<isNett>false</isNett>
+							<commission>25</commission>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>22.50</nettRate>
+								<retailRate>30.00</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+						<other>
+							<name>Porterage</name>
+							<description>Porterage</description>
+							<rateType>nett</rateType>
+							<isNett>true</isNett>
+							<details>
+								<name>Adult</name>
+								<adults>$1</adults>
+								<adultsPlusChild>$1</adultsPlusChild>
+								<nettRate>5.00</nettRate>
+								<retailRate>0</retailRate>
+								<extraAdult>n/a</extraAdult>
+								<extraChild>n/a</extraChild>
+							</details>
+						</other>
+					</extras>
+				</rateSets>
+			</products>
+		</nonAccommodationLocation>
+	</items>
+</nonAccomodationContractCollection>	

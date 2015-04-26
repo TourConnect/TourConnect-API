@@ -1,0 +1,305 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="nonAccomodationContractCollectionEnvelope">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="result">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:short" name="statusCode"/>
+              <xs:element type="xs:byte" name="returnCode"/>
+              <xs:element type="xs:string" name="returnMessage"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="data">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:byte" name="resultCount"/>
+              <xs:element type="xs:string" name="prevPageUrl"/>
+              <xs:element type="xs:string" name="nextPageUrl"/>
+              <xs:element name="items">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="contractId"/>
+                    <xs:element type="xs:byte" name="versionNumber"/>
+                    <xs:element type="xs:date" name="startDate"/>
+                    <xs:element type="xs:date" name="endDate"/>
+                    <xs:element type="xs:date" name="lastUpdated"/>
+                    <xs:element name="signatures">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:date" name="supplierSignDate"/>
+                          <xs:element type="xs:string" name="supplierUserName"/>
+                          <xs:element type="xs:string" name="supplierUserEmail"/>
+                          <xs:element type="xs:date" name="contractorSignDate"/>
+                          <xs:element type="xs:string" name="contractorUserName"/>
+                          <xs:element type="xs:string" name="contractorUserEmail"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="contractor">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="termsAndConditions"/>
+                          <xs:element type="xs:string" name="submissionCriteria"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:string" name="supplierType"/>
+                    <xs:element name="nonAccommodationLocation">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:int" name="corporatePhone"/>
+                          <xs:element type="xs:string" name="corporateFax"/>
+                          <xs:element type="xs:string" name="URL"/>
+                          <xs:element type="xs:string" name="locationName"/>
+                          <xs:element type="xs:string" name="referenceId"/>
+                          <xs:element type="xs:string" name="shortDescription"/>
+                          <xs:element type="xs:string" name="longDescription"/>
+                          <xs:element name="locationPolicy">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="familyPolicyApplicable"/>
+                                <xs:element type="xs:byte" name="adultCount"/>
+                                <xs:element type="xs:string" name="infantPolicyApplicable"/>
+                                <xs:element type="xs:string" name="infantPolicyNotApplicableReason"/>
+                                <xs:element type="xs:string" name="infantAge"/>
+                                <xs:element type="xs:string" name="childPolicyApplicable"/>
+                                <xs:element type="xs:string" name="childPolicyNotApplicableReason"/>
+                                <xs:element type="xs:string" name="childrenAge"/>
+                                <xs:element type="xs:byte" name="childrenCount"/>
+                                <xs:element type="xs:byte" name="childAccompanyCount"/>
+                                <xs:element type="xs:string" name="cancellationPolicyConditions"/>
+                                <xs:element type="xs:string" name="freeOfChargePolicyApplicable"/>
+                                <xs:element type="xs:string" name="freeOfChargePolicyConditions"/>
+                                <xs:element type="xs:string" name="groupPolicyApplicable"/>
+                                <xs:element type="xs:string" name="groupPolicyConditions"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="address">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="address1"/>
+                                <xs:element type="xs:string" name="address2"/>
+                                <xs:element type="xs:string" name="city"/>
+                                <xs:element type="xs:string" name="state"/>
+                                <xs:element type="xs:string" name="country"/>
+                                <xs:element type="xs:short" name="postalCode"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element type="xs:string" name="specialOffersProvided"/>
+                          <xs:element name="contacts" maxOccurs="unbounded" minOccurs="0">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="firstName"/>
+                                <xs:element type="xs:string" name="lastName"/>
+                                <xs:element type="xs:string" name="email"/>
+                                <xs:element type="xs:int" name="phone"/>
+                                <xs:element type="xs:string" name="fax"/>
+                                <xs:element type="xs:string" name="contactType"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="products">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="name"/>
+                                <xs:element type="xs:string" name="code"/>
+                                <xs:element type="xs:string" name="referenceId"/>
+                                <xs:element type="xs:string" name="shortDesc"/>
+                                <xs:element type="xs:string" name="detail"/>
+                                <xs:element type="xs:string" name="generalNotes"/>
+                                <xs:element type="xs:byte" name="tourDurations"/>
+                                <xs:element type="xs:string" name="desc"/>
+                                <xs:element type="xs:byte" name="adultMinPax"/>
+                                <xs:element type="xs:byte" name="childMinPax"/>
+                                <xs:element type="xs:byte" name="totalMinPax"/>
+                                <xs:element type="xs:byte" name="adultMaxPax"/>
+                                <xs:element type="xs:byte" name="childMaxPax"/>
+                                <xs:element type="xs:byte" name="totalMaxPax"/>
+                                <xs:element type="xs:string" name="standardInclusion"/>
+                                <xs:element type="xs:string" name="exclusion"/>
+                                <xs:element type="xs:string" name="whatToBring"/>
+                                <xs:element name="specialOffers" maxOccurs="unbounded" minOccurs="0">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="title"/>
+                                      <xs:element type="xs:string" name="bookingCode"/>
+                                      <xs:element type="xs:date" name="upgradeProcessedAt"/>
+                                      <xs:element name="validDatesOfSale">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element type="xs:date" name="fromDate"/>
+                                            <xs:element type="xs:date" name="toDate"/>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="validDatesOfTravel" maxOccurs="unbounded" minOccurs="0">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element type="xs:date" name="fromDate"/>
+                                            <xs:element type="xs:date" name="toDate"/>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                      <xs:element type="xs:string" name="combineWithOther"/>
+                                      <xs:element type="xs:string" name="combineOfferDesc"/>
+                                      <xs:element type="xs:string" name="specialConditions"/>
+                                      <xs:element type="xs:string" name="offerDetail"/>
+                                      <xs:element type="xs:string" name="rateType"/>
+                                      <xs:element type="xs:string" name="rate"/>
+                                      <xs:element type="xs:string" name="rateDiscountType"/>
+                                      <xs:element type="xs:string" name="rateDiscountAmount"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="rateSets" maxOccurs="unbounded" minOccurs="0">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="name"/>
+                                      <xs:element type="xs:string" name="code"/>
+                                      <xs:element type="xs:string" name="market"/>
+                                      <xs:element type="xs:string" name="allOtherMarket"/>
+                                      <xs:element type="xs:string" name="cancellationPolicy"/>
+                                      <xs:element name="applicableDates">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element type="xs:date" name="fromDate"/>
+                                            <xs:element type="xs:date" name="toDate"/>
+                                            <xs:element type="xs:string" name="name"/>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="blackoutDates" maxOccurs="unbounded" minOccurs="0">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element type="xs:date" name="fromDate"/>
+                                            <xs:element type="xs:date" name="toDate"/>
+                                            <xs:element type="xs:string" name="name"/>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="nonAccommodationRates">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element type="xs:string" name="groupSize"/>
+                                            <xs:element type="xs:string" name="departsOnDays" maxOccurs="unbounded" minOccurs="0"/>
+                                            <xs:element type="xs:string" name="pickupDepartTime"/>
+                                            <xs:element type="xs:string" name="pickupDepartLocation"/>
+                                            <xs:element type="xs:string" name="pickupNotes"/>
+                                            <xs:element type="xs:string" name="hotelPickupIncluded"/>
+                                            <xs:element type="xs:string" name="dropoffDepartTime"/>
+                                            <xs:element type="xs:string" name="dropoffDepartLocation"/>
+                                            <xs:element type="xs:string" name="dropoffNotes"/>
+                                            <xs:element type="xs:string" name="hotelDropoffIncluded"/>
+                                            <xs:element type="xs:string" name="gstTaxIncluded"/>
+                                            <xs:element type="xs:string" name="includeMeal"/>
+                                            <xs:element type="xs:string" name="mealDetail"/>
+                                            <xs:element name="rateDetails" maxOccurs="unbounded" minOccurs="0">
+                                              <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element type="xs:string" name="description"/>
+                                                  <xs:element type="xs:string" name="maxAdults"/>
+                                                  <xs:element type="xs:byte" name="maxAdultsPlusChild"/>
+                                                  <xs:element type="xs:string" name="retailRate"/>
+                                                  <xs:element type="xs:string" name="nettRate"/>
+                                                  <xs:element type="xs:string" name="extraAdult"/>
+                                                  <xs:element type="xs:string" name="extraChild"/>
+                                                </xs:sequence>
+                                              </xs:complexType>
+                                            </xs:element>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                      <xs:element name="extras">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element name="transfers" minOccurs="0">
+                                              <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element type="xs:string" name="code"/>
+                                                  <xs:element type="xs:string" name="title"/>
+                                                  <xs:element type="xs:string" name="fromLocation"/>
+                                                  <xs:element type="xs:string" name="toLocation"/>
+                                                  <xs:element type="xs:byte" name="maxPassenger"/>
+                                                  <xs:element type="xs:string" name="provideByHotel"/>
+                                                  <xs:element type="xs:string" name="includeBabySeat"/>
+                                                  <xs:element type="xs:string" name="isComplimentary"/>
+                                                  <xs:element type="xs:string" name="rate"/>
+                                                  <xs:element type="xs:string" name="adultReturnNettRate"/>
+                                                  <xs:element type="xs:string" name="childReturnNettRate"/>
+                                                  <xs:element type="xs:string" name="adultOneWayNettRate"/>
+                                                  <xs:element type="xs:string" name="childOneWayNettRate"/>
+                                                  <xs:element type="xs:string" name="luggageRestrictions"/>
+                                                  <xs:element type="xs:string" name="pickUpDetail"/>
+                                                </xs:sequence>
+                                              </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="meals">
+                                              <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element name="details" maxOccurs="unbounded" minOccurs="0">
+                                                    <xs:complexType>
+                                                      <xs:sequence>
+                                                        <xs:element type="xs:string" name="name"/>
+                                                        <xs:element type="xs:string" name="adultNett"/>
+                                                        <xs:element type="xs:string" name="adultRetail"/>
+                                                        <xs:element type="xs:string" name="childNett"/>
+                                                        <xs:element type="xs:string" name="childRetail"/>
+                                                        <xs:element type="xs:string" name="desc"/>
+                                                      </xs:sequence>
+                                                    </xs:complexType>
+                                                  </xs:element>
+                                                  <xs:element type="xs:string" name="rateType"/>
+                                                  <xs:element type="xs:byte" name="commission"/>
+                                                </xs:sequence>
+                                              </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="other" maxOccurs="unbounded" minOccurs="0">
+                                              <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element type="xs:string" name="name"/>
+                                                  <xs:element type="xs:string" name="description"/>
+                                                  <xs:element type="xs:string" name="rateType"/>
+                                                  <xs:element type="xs:string" name="isNett"/>
+                                                  <xs:element type="xs:byte" name="commission" minOccurs="0"/>
+                                                  <xs:element name="details">
+                                                    <xs:complexType>
+                                                      <xs:sequence>
+                                                        <xs:element type="xs:string" name="name"/>
+                                                        <xs:element type="xs:string" name="adults"/>
+                                                        <xs:element type="xs:string" name="adultsPlusChild"/>
+                                                        <xs:element type="xs:float" name="nettRate"/>
+                                                        <xs:element type="xs:float" name="retailRate"/>
+                                                        <xs:element type="xs:string" name="extraAdult"/>
+                                                        <xs:element type="xs:string" name="extraChild"/>
+                                                      </xs:sequence>
+                                                    </xs:complexType>
+                                                  </xs:element>
+                                                </xs:sequence>
+                                              </xs:complexType>
+                                            </xs:element>
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
