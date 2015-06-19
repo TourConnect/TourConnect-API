@@ -5,7 +5,7 @@
 		<returnCode>0</returnCode>
 		<returnMessage>Success</returnMessage>
 	</result>
-	<data>
+	<contractCollection>
 		<resultCount>2</resultCount>
 		<prevPageUrl></prevPageUrl>
 		<nextPageUrl></nextPageUrl>
@@ -6928,5 +6928,5 @@
 				</products>
 			</nonAccommodationLocation>
 		</items>
-	</data>
+	</contractCollection>
 </contractCollectionEnvelope>	
