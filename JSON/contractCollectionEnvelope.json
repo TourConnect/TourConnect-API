@@ -27,7 +27,10 @@
                "termsAndConditions": "",
                "submissionCriteria": ""
             },
-            "supplierType": "Accommodation",
+            "supplier": {
+               "referenceId": "4fc8117a9af76c0001005949",
+               "supplierType": "Accommodation",
+            },
             "accomodationLocation": {
                "corporatePhone": "02 9900 5500",
                "corporateFax": "02 9900 5501",
@@ -4119,7 +4122,10 @@
                "termsAndConditions": "",
                "submissionCriteria": ""
             },
-            "supplierType": "Non Accommodation",
+            "supplier": {
+               "referenceId": "4fc8117934025c00350390b9",
+               "supplierType": "Non Accommodation",
+            },
             "nonAccommodationLocation": {
                "corporatePhone": "1800825570",
                "corporateFax": "",

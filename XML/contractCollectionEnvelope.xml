@@ -27,7 +27,10 @@
 				<termsAndConditions></termsAndConditions>
 				<submissionCriteria></submissionCriteria>
 			</contractor>
-			<supplierType>Accommodation</supplierType>
+			<supplier>
+				<referenceId>4fc8117a9af76c0001000023</referenceId>
+				<supplierType>Accommodation</supplierType>
+			</supplier>
 			<accomodationLocation>
 				<corporatePhone>02 9900 5500</corporatePhone>
 				<corporateFax>02 9900 5501</corporateFax>
@@ -3764,7 +3767,10 @@
 				<termsAndConditions></termsAndConditions>
 				<submissionCriteria></submissionCriteria>
 			</contractor>
-			<supplierType>Non Accommodation</supplierType>
+			<supplier>
+				<referenceId>4fc8117934025c00350390b9</referenceId>
+				<supplierType>Non Accommodation</supplierType>
+			</supplier>
 			<nonAccommodationLocation>
 				<corporatePhone>1800825570</corporatePhone>
 				<corporateFax></corporateFax>

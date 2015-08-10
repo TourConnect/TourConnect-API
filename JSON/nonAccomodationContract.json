@@ -16,7 +16,10 @@
       "termsAndConditions": "",
       "submissionCriteria": ""
    },
-   "supplierType": "Non Accommodation",
+   "supplier": {
+      "referenceId": "4fc8117934025c00350390b9",
+      "supplierType": "Non Accommodation",
+   },
    "nonAccommodationLocation": {
       "corporatePhone": "1800825570",
       "corporateFax": "",

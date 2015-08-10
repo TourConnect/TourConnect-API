@@ -27,7 +27,14 @@
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-        <xs:element type="xs:string" name="supplierType"/>
+        <xs:element name="supplier">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="referenceId"/>
+              <xs:element type="xs:string" name="supplierType"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
         <xs:element name="accomodationLocation">
           <xs:complexType>
             <xs:sequence>
